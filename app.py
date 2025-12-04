@@ -460,9 +460,6 @@ def handle_audio_message(event: MessageEvent):
             "zh-TW",  # 繁體中文
             "ja-JP",  # 日文
             "ko-KR",  # 韓文
-            "de-DE",  # 德文
-            "es-ES",  # 西班牙文
-            "hi-IN",  # 印地文（Hindi）
         ],
     )
 
